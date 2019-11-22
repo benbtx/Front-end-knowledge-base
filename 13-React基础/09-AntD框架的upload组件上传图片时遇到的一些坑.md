@@ -193,7 +193,7 @@ file的打印的结果如下：
         "thumbUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAHQ9qKKlbimcXrIH9o2vH/AC2T+ddPj98v+9RRWsuhnHdk0ar9qb5R0Pb6VPB/qh9aKKiRr0Irnt/vUDr+NFFJCRqWxJik5Pb+dLJ938aKK06mYSdKKKKBH//Z",
         "response": {
             "retCode": 0,
-            "imgUrl": "http://qianguyihao.com/opfewfwj098902kpkpkkj976fe.jpg",
+            "imgUrl": "http://benbtx.com/opfewfwj098902kpkpkkj976fe.jpg",
             "photoid": 271850
         }
     }
@@ -223,7 +223,7 @@ fileList 的打印结果：
         "response": {
             "retCode": 0,
             "msg": "success",
-            "imgUrl": "http://qianguyihao.com/hfwpjouiurewnmbhepr689.jpg",
+            "imgUrl": "http://benbtx.com/hfwpjouiurewnmbhepr689.jpg",
         }
     },
     {
@@ -245,7 +245,7 @@ fileList 的打印结果：
         "thumbUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAHQ9qKKlbimcXrIH9o2vH/AC2T+ddPj98v+9RRWsuhnHdk0ar9qb5R0Pb6VPB/qh9aKKiRr0Irnt/vUDr+NFFJCRqWxJik5Pb+dLJ938aKK06mYSdKKKKBH//Z",
         "response": {
             "retCode": 0,
-            "imgUrl": "http://qianguyihao.com/opfewfwj098902kpkpkkj976fe.jpg",
+            "imgUrl": "http://benbtx.com/opfewfwj098902kpkpkkj976fe.jpg",
             "photoid": 271850
         }
     }

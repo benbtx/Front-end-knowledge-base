@@ -39,7 +39,7 @@
 
 ## 文档类
 
-- 中文博客排版指南：<https://github.com/qianguyihao/document-guide>
+- 中文博客排版指南：<https://github.com/benbtx/document-guide>
 
 - 中国程序员容易发音错误的单词：<https://github.com/shimohq/chinese-programmer-wrong-pronunciation>
 

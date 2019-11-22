@@ -10,7 +10,7 @@
 注意，基本数据类型`string`是**无法绑定属性和方法**的。比如说：
 
 ```javascript
-    var str = "qianguyihao";
+    var str = "benbtx";
 
     str.aaa = 12;
     console.log(typeof str);  //打印结果为：string
@@ -201,7 +201,7 @@
 **代码举例2**：（两个参数时，需要特别注意）
 
 ```javascript
-    var str = 'qianguyihao';
+    var str = 'benbtx';
     result = str.indexOf('a', 3); // 从第三个位置开始查找 'a'这个字符 【重要】
 
     console.log(result); // 打印结果：9
@@ -230,7 +230,7 @@
     var str2 = 'yihao';
 
     var result = str1.concat(str2);
-    console.log(result); // 打印结果：qianguyihao
+    console.log(result); // 打印结果：benbtx
 ```
 
 ### slice()
@@ -486,7 +486,7 @@
 
 ## 我的公众号
 
-想学习**代码之外的技能**？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
+想学习**代码之外的技能**？不妨关注我的微信公众号：**千古壹号**（id：`benbtx`）。
 
 扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
 

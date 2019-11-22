@@ -99,7 +99,7 @@ JSX：JavaScript XML，一种类似于XML的JS扩展语法。也可以理解成�
   var vDom = (
     <div>
       Hello, React!
-      <p className="qianguyihao">千古壹号</p>
+      <p className="benbtx">千古壹号</p>
       <label htmlFor="" />
     </div>
   );
@@ -115,7 +115,7 @@ JSX：JavaScript XML，一种类似于XML的JS扩展语法。也可以理解成�
 	// 这一行是注释
 	<div>
 	  Hello, React!
-	  <p className="qianguyihao">千古壹号</p>
+	  <p className="benbtx">千古壹号</p>
 	  {/*这一行也是注释 */}
 	</div>
 	);
@@ -258,7 +258,7 @@ React在解析所有标签的时候，是以标签的首字母来区分的：如
     <script type="text/babel">
       // 父组件中的数据
       var person = {
-        name: "qianguyihao",
+        name: "benbtx",
         age: 27,
         gender: "男",
         address: "深圳"
@@ -493,7 +493,7 @@ index.html:
 
       ReactDOM.render(
         <div>
-          <Hello2 name="qianguyihao"> </Hello2>
+          <Hello2 name="benbtx"> </Hello2>
         </div>,
         document.getElementById("app")
       );

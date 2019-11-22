@@ -1,6 +1,6 @@
 
 
-> 本文最初发表于[博客园](http://www.cnblogs.com/smyhvae/p/8476602.html)，并在[GitHub](https://github.com/qianguyihao/Web)上持续更新**前端的系列文章**。欢迎在GitHub上关注我，一起入门和进阶前端。
+> 本文最初发表于[博客园](http://www.cnblogs.com/smyhvae/p/8476602.html)，并在[GitHub](https://github.com/benbtx/Web)上持续更新**前端的系列文章**。欢迎在GitHub上关注我，一起入门和进阶前端。
 
 > 以下是正文。
 
@@ -406,7 +406,7 @@ PS：我发现，我安装的 node.js v8.9.4 版本，已经自动添加了环�
 
 ## 我的公众号
 
-想学习<font color=#0000ff>**代码之外的技能**</font>？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
+想学习<font color=#0000ff>**代码之外的技能**</font>？不妨关注我的微信公众号：**千古壹号**（id：`benbtx`）。
 
 扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
 

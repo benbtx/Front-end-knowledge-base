@@ -1,6 +1,6 @@
 
 
-> 本文最初发表于[博客园](http://www.cnblogs.com/smyhvae/p/7256371.html)，并在[GitHub](https://github.com/qianguyihao/Web)上持续更新。以下是正文。
+> 本文最初发表于[博客园](http://www.cnblogs.com/smyhvae/p/7256371.html)，并在[GitHub](https://github.com/benbtx/Web)上持续更新。以下是正文。
 
 ## 盒子模型
 
@@ -529,7 +529,7 @@ div{
 
 ## 我的公众号
 
-想学习**代码之外的技能**？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
+想学习**代码之外的技能**？不妨关注我的微信公众号：**千古壹号**（id：`benbtx`）。
 
 扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
 

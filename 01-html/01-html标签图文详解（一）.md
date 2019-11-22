@@ -1,5 +1,5 @@
 
-> 本文最初发表于[博客园](http://www.cnblogs.com/smyhvae/p/4850684.html)，并在[GitHub](https://github.com/qianguyihao/Web)上持续更新**前端的系列文章**。欢迎在GitHub上关注我，一起入门和进阶前端。
+> 本文最初发表于[博客园](http://www.cnblogs.com/smyhvae/p/4850684.html)，并在[GitHub](https://github.com/benbtx/Web)上持续更新**前端的系列文章**。欢迎在GitHub上关注我，一起入门和进阶前端。
 
 > 以下是正文。
 
@@ -49,7 +49,7 @@ PS：「浏览器内核」也就是浏览器所采用的「渲染引擎」，渲
 
 ### Sublime Text 的使用
 
-详情请移步至：[Sublime Text使用技巧](https://github.com/qianguyihao/Tools/blob/master/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/02-Sublime%20Text%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.md)
+详情请移步至：[Sublime Text使用技巧](https://github.com/benbtx/Tools/blob/master/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/02-Sublime%20Text%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.md)
 
 ## 一、HTML的介绍
 
@@ -1099,7 +1099,7 @@ aaa/../bbb/1.jpg
 
 ## 我的公众号
 
-想学习<font color=#0000ff>**代码之外的技能**</font>？不妨关注我的微信公众号（千古壹号id：`qianguyihao`）。
+想学习<font color=#0000ff>**代码之外的技能**</font>？不妨关注我的微信公众号（千古壹号id：`benbtx`）。
 
 扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
 
